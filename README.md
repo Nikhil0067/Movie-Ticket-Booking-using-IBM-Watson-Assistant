@@ -1,5 +1,5 @@
 # Movie-Ticket-Booking-using-IBM-Watson-Assistant
-A chatbot using Watson assistant.
+A chatbot using Watson assistant. 
 
 # Video Demonstration Link
 https://drive.google.com/file/d/1JasngEiNeCROH0coKZhHFTg5U3KnVPpY/view?usp=drive_link
