@@ -1,5 +1,6 @@
 # Movie-Ticket-Booking-using-IBM-Watson-Assistant
 A chatbot using Watson assistant.
+
 IBM Watson Assistant is a powerful AI-powered chatbot platform that enables businesses to build and deploy conversational virtual assistants. Here are a few key points about IBM Watson Assistant:
 
 1. Intents: Intents represent the purpose or goal behind a user's input or message. In Watson Assistant, intents are used to classify and understand the user's intent. By defining different intents, developers can train the assistant to recognize and respond appropriately to user queries. For example, you can define intents like "book a hotel," "cancel reservation," or "get weather forecast."
